@@ -1,5 +1,6 @@
 #Snake Game in python using Turtle.
-                                #CED16I011
+                                # CED16I011
+                                # G PAVAN BHARGAV
 
 import turtle
 import time 
